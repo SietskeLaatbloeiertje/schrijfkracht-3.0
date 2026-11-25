@@ -1,2 +1,9 @@
-# schrijfkracht-3.0
-een interactieve spelomgeving waar studenten schrijven om verder te komen
+# Schrijfkracht 2.0 – integraal testprototype
+Vervang index.html, style.css, app.js en data.js in de hoofdmap van je GitHub-repository. Kies Settings > Pages > Deploy from a branch > main > / (root). Open de gepubliceerde link. Voor lokaal testen: gebruik een lokale webserver (ES-modules werken niet betrouwbaar via file://).
+
+Vier producten, twee niveaus, drie levels. Bij een verkeerd kijkantwoord verdwijnt het antwoord en volgt een hint. Bij een tweede verkeerd antwoord worden alle vakken leeg, volgt uitleg en een nieuwe controlevraag. Level 1 vereist alle zelfcontrolepunten; level 2 vereist verwerking van meldingen (bij twijfel bespreken en bevestigen). Samen lezen en een reactie noteren is verplicht vóór level 3. De site kan niet controleren of het gesprek echt heeft plaatsgevonden. Mail opent een concept aan szijlmans@yonder.nl; er wordt niets automatisch verzonden. Dit adres is zichtbaar in de openbare broncode. Teksten blijven in het werkgeheugen; herladen wist ze.
+
+Test met fictieve gegevens. Controleer per product en niveau: twee verkeerde antwoorden, herstelvraag, onvolledige checklist, openstaande taalmelding, ontbrekende peerfeedback, zelfstandig schrijven, export. JavaScript-syntaxis gecontroleerd; geen browsertest uitgevoerd. Regexregels zijn niet gevalideerd en kunnen fouten missen of onterechte meldingen geven. Niveauverschil blijft beperkt. Geen AI, uitgebreide NT2-varianten, offlinecache, automatische contrastpagina of volledige regeltests. Lexend ontbreekt; Verdana is de terugval. De blokkenstijl gebruikt eigen CSS, geen Minecraft-assets.
+
+## Versie 3.0
+Nieuwe interactieve SVG-wereldkaart, vier bestemmingen, personages en scènes. De oefenlogica is grotendeels overgenomen uit 2.0. Dit is een visueel prototype, geen volledige implementatie van de masterprompt. Upload de zes bestanden naar een aparte map v3 in GitHub.
